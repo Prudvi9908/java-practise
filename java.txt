@@ -1,0 +1,6 @@
+//interface
+interface similar to a class and may also contain constants,default methoda,static methods,and nested types.
+interfaces is a collection of abstract method declaration for achieving abstractioon but interfaces does not contain method body.
+default and static methods only have method bodies.
+implements is thekeyword for interfaces.
+we cannot create object for intferfaces,interfaces are anstract by nature.and cannot be initiated directly.

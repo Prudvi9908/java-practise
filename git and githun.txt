@@ -1,0 +1,16 @@
+ci cd is possible through   version control system
+types
+===============
+local--->inside local system   issue :if want to work with group of people not possible
+centralized---->can work group of people   issue:suppose all group from different locations can see the changes because they work on same server and they cab be able to change in the server 
+.apart from group no body can see or change.what if the server fails.. all the work till now wil be lost.
+distributed----->git is an example. in this we maintain a copy in local and remote. if something happens in local there is a copy in remote and vice versa. 
+
+
+in git stages
+=========
+local ----> staging--->local rep----->remote.
+from local to staging add command.
+from staging to local rep commit command.
+from local rep to remote push command.
+to create an local repository then init command.

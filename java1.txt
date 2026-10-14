@@ -1,0 +1,9 @@
+java8 
+==================
+default and  static in interfaces
+for each method is an inbuit feature to print the data
+method reference we can print data with ::
+lambda expression
+Stream API : store group  of data but onu once we can use it unlike list and arrays
+Functional interfaces: we have to use that one method that is alrady defined like in runnable interfaces run method
+date and time
